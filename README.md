@@ -3,10 +3,10 @@
 <h3>About me <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"></h3>
 <p>Hi, I am live in Rio de Janeiro, RJ, Brazil.</p>
 
-- [ ]  📖 read
-- [ ]  ✈️ 🏖️ traveling
-- [ ]  📷 fotograph 
-- [ ] 😃 spend time with my family and friends
+- 📖 read
+- ✈️ 🏖️ traveling
+- 📷 fotograph 
+- 😃 spend time with my family and friends
 
 <h3>Skills</h3>
 
