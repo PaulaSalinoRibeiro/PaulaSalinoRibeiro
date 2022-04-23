@@ -1,14 +1,15 @@
 <h1 align="center" >Paula Salino Ribeiro 🖥️</h1>
 
-<h3>About me <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"></h3>
-<p>Hi, I am live in Rio de Janeiro, RJ, Brazil.</p>
+<h3>Sobre mim <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"></h3>
+<p>Mineira vivendo no Rio de Janeiro.</p>
+<p>No meu tempo livre, eu gosto de:</p>
 
-- 📖 read
-- ✈️ 🏖️ traveling
-- 📷 fotograph 
-- 😃 spend time with my family and friends
+- 📖 ler
+- ✈️ viajar
+- 📷 fotografar
+- 😃 passar tempo com minha família e amigos
 
-<h3>Skills</h3>
+<h3>Habilidades</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
