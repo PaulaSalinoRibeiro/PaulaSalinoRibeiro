@@ -22,6 +22,7 @@
 ![image](https://github-readme-stats.vercel.app/api?username=PaulaSalinoRibeiro)
 
 
+
 <h3>Contatos</h3>
 
 <a href = "mailto:paulasalinor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
