@@ -18,10 +18,7 @@
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
 ![image](https://github-readme-stats.vercel.app/api?username=PaulaSalinoRibeiro)
-
-
 
 <h3>Contatos</h3>
 
