@@ -20,3 +20,8 @@
 
 
 ![image](https://github-readme-stats.vercel.app/api?username=PaulaSalinoRibeiro)
+
+<h3>Contatos</h3>
+
+![https://www.linkedin.com/in/paula-salino-ribeiro/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![paulasalinor@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
