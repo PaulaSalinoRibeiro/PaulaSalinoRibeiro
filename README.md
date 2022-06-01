@@ -1,6 +1,6 @@
 <h1 align="center" >Paula Salino Ribeiro 🖥️</h1>
 
-<h3>Um pouquinho sobre mim <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"></h3>
+<h3>Um pouquinho sobre mim </h3>
 <p>Sou uma mineira vivendo no Rio de Janeiro.</p>
 <p>No meu tempo livre, eu gosto de:</p>
 
