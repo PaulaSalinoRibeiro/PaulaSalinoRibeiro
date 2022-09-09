@@ -7,6 +7,7 @@
 - 📖 ler
 - ✈️ viajar
 - 📷 fotografar
+- ⛹🏻‍♀️ praticar atividade física
 - 😃 passar tempo com minha família e amigos
 
 <h3>Habilidades</h3>
