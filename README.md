@@ -10,6 +10,8 @@
 - ⛹🏻‍♀️ praticar atividade física
 - 😃 passar tempo com minha família e amigos
 
+E atualmente estou apredendo JAVA
+
 <h3>Habilidades</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
