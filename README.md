@@ -10,7 +10,6 @@
 - ⛹🏻‍♀️ praticar atividade física
 - 😃 passar tempo com minha família e amigos
 
-E atualmente estou apredendo JAVA
 
 <h3>Habilidades</h3>
 
