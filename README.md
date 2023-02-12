@@ -10,6 +10,8 @@
 - ⛹🏻‍♀️ praticar atividade física
 - 😃 passar tempo com minha família e amigos
 
+<a href="https://medium.com/@paulasalinor">Meus artigos</a>
+
 
 <h3>Habilidades</h3>
 
