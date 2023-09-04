@@ -10,7 +10,7 @@
 - ⛹🏻‍♀️ praticar atividade física
 - 😃 passar tempo com minha família e amigos
 
-<a href="https://medium.com/@paulasalinor">Meus artigos</a>
+<a href="https://paularibeiro.netlify.app/">Meu Blog</a>
 
 
 <h3>Habilidades</h3>
