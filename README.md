@@ -5,10 +5,7 @@
 <p>No meu tempo livre, eu gosto de:</p>
 
 - 📖 ler
-- ✈️ viajar
-- 📷 fotografar
-- ⛹🏻‍♀️ praticar atividade física
-- 😃 passar tempo com minha família e amigos
+- 🏊🏻‍♀️ natação |  🚴🏻 bike | 🏃🏻‍♀️ corrida
 
 <a href="https://paularibeiro.netlify.app/">Meu Blog</a>
 
