@@ -7,9 +7,6 @@
 - 📖 ler
 - 🏊🏻‍♀️ natação |  🚴🏻 bike | 🏃🏻‍♀️ corrida
 
-<a href="https://paularibeiro.netlify.app/">Meu Blog</a>
-
-
 <h3>Habilidades</h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,8 +28,6 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![image](https://github-readme-stats.vercel.app/api?username=PaulaSalinoRibeiro)
 
 <h3>Contatos</h3>
 
